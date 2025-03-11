@@ -1,5 +1,8 @@
 
 
+![image](https://github.com/user-attachments/assets/84f0163a-e7e7-43ec-a6db-cb236f05dbec)
+
+
 GIVEN a weather dashboard with form inputs
 
 WHEN I search for a city
