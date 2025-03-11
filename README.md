@@ -1,6 +1,8 @@
+https://my-weather-dashboard-jh5e.onrender.com/
 
 
-![image](https://github.com/user-attachments/assets/84f0163a-e7e7-43ec-a6db-cb236f05dbec)
+![image](https://github.com/user-attachments/assets/24c9e219-459e-4164-8503-6758938c6d24)
+
 
 
 GIVEN a weather dashboard with form inputs
